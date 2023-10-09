@@ -1,9 +1,8 @@
-Hi 👋 My name is Hussein Mohammed Ali
-=====================================
-
-Frontend Developer
-------------------
-
+<h1 align="center"> Hi 👋 My name is Hussein Mohammed Ali </h1>
+<p align='center'>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FrontEnd+Developer;React+Enthusiast+%7C+UI+Designer;%F0%9F%A6%8AQuick+fox+jumps+nightly+above+%F0%9F%AA%84+wizard" alt="Typing SVG" />
+</p>
+<hr/>
 🚀 Entry-Level Front-End Developer | React Enthusiast | UI/UX Designer 🌟 Passionate about creating engaging user interfaces and crafting exceptional web experiences. Proficient in React, Next.js, Redux, and Bootstrap. Skilled in HTML, CSS, and JavaScript. I'm on a mission to learn, grow, and excel in the world of web development. 🎓 Diploma in Front-End Development from Route Academy. 💼 Freelance UI Designer with a knack for detail and a love for design aesthetics. 🌐 Always exploring new web development technologies to stay at the cutting edge of the field.
 
 * 🌍  I'm based in Egypt
